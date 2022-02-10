@@ -32,15 +32,15 @@ vscode 파워쉘 활성화 (보통 하단에 활성화됨) -> pip install matplo
 ### 7. 마지막 검사
 파이선 스크립트를 다음과 같이 작성   
 
-'''
-import matplotlib.pyplot as plt
-import tensorflow
-
-print("버전확인")
-print(matplotlib.__version__)
-print(tensorflow.__version__)
-
-plt.plot([1, 2, 3, 4])
-plt.show()
-'''
+'''  
+import matplotlib.pyplot as plt  
+import tensorflow  
+  
+print("버전확인")  
+print(matplotlib.__version__)  
+print(tensorflow.__version__)  
+  
+plt.plot([1, 2, 3, 4])  
+plt.show()  
+'''  
 
