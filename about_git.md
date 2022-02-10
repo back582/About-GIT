@@ -13,9 +13,6 @@ next 하다가 ->
 'configuring the terminal emulator to use with git bash' 에서 'use windows' default console window' 로 설정
 
 
-
-
-
 ----------------------------------------------------------------------------
 ## 사용방법  
 
