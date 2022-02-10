@@ -8,7 +8,7 @@ manager branch만들어(gitlab, git branch manager)
 git checkout manager >> branch변경됨
 
 ----------------------------------------------------------------------------
-(매일)
+(갱신)
 git pull origin develop
 
 코딩하고
