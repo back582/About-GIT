@@ -1,6 +1,6 @@
 # About-GIT
 
-## VScode&GIT 2019/01/01 기준
+## VScode&GIT 2022/02/10 기준
 
 ### 1. git 다운로드
 https://git-scm.com/downloads  
