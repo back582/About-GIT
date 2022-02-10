@@ -2,6 +2,18 @@
 
 ## VScode&GIT 2019/01/01 기준
 
+### 1. git 설치
+https://git-scm.com/downloads  
+해당 경로를 통해 git 설치
+
+
+
+
+
+
+----------------------------------------------------------------------------
+## 사용방법  
+
 (처음)
 development에서 클론(1단계)
 manager branch만들어(gitlab, git branch manager)
