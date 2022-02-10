@@ -30,4 +30,17 @@ vscode 파워쉘 활성화 (보통 하단에 활성화됨) -> pip install matplo
 만약 터미널 창에 pip의 업그레이드가 필요하다고 하면 업그레이드 진행 (친절하게 업그레이드 명령어 알려줌 그대로 실행하면됨)
 
 ### 7. 마지막 검사
+파이선 스크립트를 다음과 같이 작성   
+
+'''
+import matplotlib.pyplot as plt
+import tensorflow
+
+print("버전확인")
+print(matplotlib.__version__)
+print(tensorflow.__version__)
+
+plt.plot([1, 2, 3, 4])
+plt.show()
+'''
 
