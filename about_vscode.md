@@ -36,7 +36,7 @@ vscode 파워쉘 활성화 (보통 하단에 활성화됨) -> pip install matplo
 import matplotlib.pyplot as plt  
 import tensorflow  
   
-print("버전확인")  
+print("더 확인 할 패키지가 있다면 아래와 같이 코드 작성하세요")  
 print(matplotlib.__version__)  
 print(tensorflow.__version__)  
   
@@ -44,3 +44,5 @@ plt.plot([1, 2, 3, 4])
 plt.show()  
 '''  
 
+->  
+F5로 실행 -> 만약 터미널에서 버전도 확인되고 그래프가 표시된다면 VScode에 Python 개발 환경은 모두 구축 완료 된 상태, 즐거운 코딩되세요
