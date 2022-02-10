@@ -4,7 +4,7 @@
 
 ### 1. git 설치
 https://git-scm.com/downloads  
-해당 경로를 통해 git 설치
+해당 경로를 통해 운영체제에 맞게끔 git 설치
 
 
 
