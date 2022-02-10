@@ -2,4 +2,4 @@
 
 setting of VSCode
 
-setting of git
+setting of GIT
