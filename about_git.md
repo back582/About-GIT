@@ -1,5 +1,5 @@
 # About-GIT
-Description of the GIT
+2019년 1월 기준
 
 (처음)
 development에서 클론(1단계)
