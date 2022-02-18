@@ -37,6 +37,12 @@ vscode 파워쉘 활성화 (보통 하단에 활성화됨) -> pip install matplo
 파워쉘에 다음과 같이 모듈을 확인  
 pip list  
 
+->
+
+vscode에서 ctrl + shift + p -> Python: Select Interpreter 클릭 -> 자신의 가상환경 클릭
+
+->
+
   
 파이선 스크립트를 다음과 같이 작성   
 
