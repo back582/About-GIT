@@ -7,9 +7,12 @@ https://code.visualstudio.com/
 해당 링크를 통해 vscode 설치
 ![1](https://user-images.githubusercontent.com/17943248/156362609-3846cb14-caa0-4658-8791-c9987543ab5c.png)
   
+
 ### 2. vscode에 기본 필요 확장 패키지 설치 
 vscode 활성화 -> 맨 좌측 '확장' 메뉴 클릭 -> 'Code Runner', 'python', 'python path', 'pylance', 'python extension pack'  
 패키지들을 검색하여 설치 (본인에게 필요한 확장 패키지를 더 설치해도 무방)
+![1](https://user-images.githubusercontent.com/17943248/156363027-7974f4c7-5922-4a56-bafc-0e3744c6a2a3.png)
+
 
 ### 3. Anaconda 설치 및 가상환경 설정
 https://www.anaconda.com/products/individual  
