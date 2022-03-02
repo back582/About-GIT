@@ -1,17 +1,19 @@
 # About-VSCode
 
 
-## VSCode&Python (2022/02/14 기준)
+## VSCode&Python (2022/03/02 기준)
 ### 1. vscode 설치
 https://code.visualstudio.com/  
 해당 링크를 통해 vscode 설치
 
-### 2. vscode에 기본 필요 확장 패키지 설치
-vscode 활성화 -> 맨 좌측 '확장' 메뉴 클릭 -> 'Code Runner', 'python', 'pylance', 'python extension pack'
+### 2. vscode에 기본 필요 확장 패키지 설치 
+vscode 활성화 -> 맨 좌측 '확장' 메뉴 클릭 -> 'Code Runner', 'python', 'python path', 'pylance', 'python extension pack' 패키지들을 검색하여 설치  
+(본인에게 필요한 확장 패키지를 더 설치해도 무방)
 
 ### 3. Anaconda 설치 및 가상환경 설정
-https://www.anaconda.com/products/individual
-해당 링크를 통해 자신의 python 버전과 맞는 anaconda 설치 -> anaconda 실행 좌측에 'Environments' 클릭 -> 하단에 create 클릭 -> 자신입맛대로 가상환경 이름 및 구축
+https://www.anaconda.com/products/individual  
+해당 링크를 통해 anaconda 설치 -> anaconda 실행 좌측에 'Environments' 클릭 -> 하단에 create 클릭 -> 자신입맛대로 가상환경 구축  
+(만약 딱히 설정할 가상환경이 없다면 base(root)를 사용해도 무방)
 
 ### 4. python path 설정
 python 설치한 경로에서 Scripts 파일 경로 (보통 C:\Users\사용자\AppData\Local\Programs\Python\Python310\Scripts 에 가보면됨) 복사 ->  
