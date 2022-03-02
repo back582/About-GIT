@@ -31,9 +31,17 @@ python 설치한 경로에서 Scripts 파일 경로 (보통 C:\Users\사용자\A
 
 
 ### 5. 중간 검사
-vscode 실행 -> 상단에 '파일' 클릭 -> '새 파일' 클릭 -> 파이썬 파일로 변경 -> print("hello world") -> 후 나오는 메뉴얼 그대로 진행 ->
-모든 메뉴얼을 진행했다면 ->
-터미널 창에 'pip' 입력 ->   
+vscode 실행 -> 상단에 '파일' 클릭 -> '새 파일' 클릭 -> 파이썬 파일로 변경 -> print("hello world") 작성 
+![1](https://user-images.githubusercontent.com/17943248/156366994-a8012163-bb45-4702-a540-80bd70618fdc.png)
+
+-> 'ctrl' + 'shift' + 'p' 조합키 누른 후 -> 'Python: Select Interpreter' 클릭
+![1](https://user-images.githubusercontent.com/17943248/156367415-cb601a59-b406-479b-9628-32c50665bdcb.png)
+
+-> 자신이 만든 anaconda 루트의 이름 클릭 (따로 만들지 않았다면 base(root)가 나와야함. 만약 가상환경 이름이 나오지 않는다면 vscode 종료 후 컴퓨터 재부팅)
+![1](https://user-images.githubusercontent.com/17943248/156367681-9a7f2e91-278c-4c3e-a9de-9b0d5417626a.png)
+
+
+-> 후 나오는 메뉴얼 그대로 진행 -> 모든 메뉴얼을 진행했다면 -> 터미널 창에 'pip' 입력 ->   
 만약 pip 용어를 모르겠다는 표현이면 위 4번 항목 다시 할것, 그래도 안되면 python 전체 완전 삭제 후 2번 항목부터 다시 시도할것.
 만약 pip 명령어들이 출력된다면 성공
 
