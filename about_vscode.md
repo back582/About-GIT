@@ -16,8 +16,13 @@ vscode 활성화 -> 맨 좌측 '확장' 메뉴 클릭 -> 'Code Runner', 'python'
 
 ### 3. Anaconda 설치 및 가상환경 설정
 https://www.anaconda.com/products/individual  
-해당 링크를 통해 anaconda 설치 -> anaconda 실행 좌측에 'Environments' 클릭 -> 하단에 create 클릭 -> 자신입맛대로 가상환경 구축  
+해당 링크를 통해 anaconda 설치 
+![1](https://user-images.githubusercontent.com/17943248/156363359-6b6aa0a8-a5ae-4db9-b624-49e6f6df14da.png)
+
+-> anaconda 실행 좌측에 'Environments' 클릭 -> 하단에 create 클릭 -> 자신입맛대로 가상환경 구축  
 (만약 딱히 설정할 가상환경이 없다면 base(root)를 사용해도 무방)
+![1](https://user-images.githubusercontent.com/17943248/156363791-1002b207-6165-4a82-a67b-33c94d835ae2.png)
+
 
 ### 4. python path 설정
 python 설치한 경로에서 Scripts 파일 경로 (보통 C:\Users\사용자\AppData\Local\Programs\Python\Python310\Scripts 에 가보면됨) 복사 ->  
