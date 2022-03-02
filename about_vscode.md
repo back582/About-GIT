@@ -6,7 +6,7 @@
 https://code.visualstudio.com/  
 해당 링크를 통해 vscode 설치
 
-### 2. Python3 설치
+### 2. Python3 설치   (Anaconda 설치 시 생략)
 https://www.python.org/downloads/  
 해당 링크를 통해 python3 설치
 
