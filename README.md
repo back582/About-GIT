@@ -1,5 +1,5 @@
 # Development-environment-setting
 
-setting of VSCode
+setting of VSCode for Python
 
 setting of GIT
