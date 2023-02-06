@@ -1,5 +1,4 @@
-QT4.8.6
-QTCretor4.5
+# QT4.8.6 &nbsp; QTCretor4.5
 
 # 1. LNK2001: unresolved external symbol "public: virtual struct QMetaObject const
 -> delete the build file, clean and rebuild.
